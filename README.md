@@ -16,7 +16,7 @@ How to Use
     git clone https://github.com/CodeRunner21/quiz-2.git
 
 
-    Contribute:
+Contribute:
         Fork the repository.
         Create a branch: git checkout -b feature/new-feature.
         Commit your changes: git commit -am 'Add a new feature'.
