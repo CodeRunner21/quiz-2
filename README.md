@@ -13,9 +13,8 @@ How to Use
 
     Clone Repository:
 
-    bash
+    git clone https://github.com/CodeRunner21/quiz-2.git
 
-git clone https://github.com/CodeRunner21/quiz-2.git
 
     Contribute:
         Fork the repository.
