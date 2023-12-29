@@ -6,7 +6,6 @@ The EcoKids Quiz Platform is a website dedicated to educating children about env
 Features
 
     Interactive Quizzes: Engaging quizzes covering various environmental topics.
-    Educational Content: Informative articles, videos, and resources related to environmental conservation.
     Progress Tracking: Monitor quiz performance and track learning progress.
     User-Friendly Interface: Intuitive design for easy navigation and accessibility for children.
 
@@ -16,29 +15,7 @@ How to Use
 
     bash
 
-git clone https://github.com/yourusername/ecokids-quiz-platform.git
-
-Install Dependencies:
-
-Ensure you have the necessary dependencies installed:
-
-bash
-
-# Example commands for installing dependencies
-npm install
-# or
-yarn install
-
-Run the Application:
-
-Launch the EcoKids Quiz Platform locally:
-
-bash
-
-    # Example command to start the application
-    npm start
-    # or
-    yarn start
+git clone https://github.com/CodeRunner21/quiz-2.git
 
     Contribute:
         Fork the repository.
@@ -49,11 +26,4 @@ bash
 
 Technologies Used
 
-    Frontend:
-        HTML5, CSS3, JavaScript
-        React.js
-
-    Backend:
-        Node.js
-        Express.js
-        MongoDB (or any other database used)
+    HTML5, CSS3, JavaScript
